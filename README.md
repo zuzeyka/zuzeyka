@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/C4E16AQFZQbO_jy13ww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1631957154041?e=1737590400&v=beta&t=VrC6t6mTtQOuJvgcpLmZ9ee0d9djEUeta2InXZi_gms)](https://t.me/zuzeyka)
+[Telegram ](https://t.me/zuzeyka)
 <h1 align="center">Hi 👋, I'm Stepan Tarasenko</h1>
 <h3 align="center">A passionate software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczN5dW5lMDN4Y3ZqNzNyaHlzcWtsbDhhNXl2cTNocHdyYzFjOGhwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.gif">
